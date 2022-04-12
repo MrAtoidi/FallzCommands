@@ -1,0 +1,7 @@
+name: FallzCommands
+version: '${project.version}'
+main: com.atoidicoding.fallzcommands.FallzCommands
+api-version: 1.18
+authors: [ Atoidi ]
+description: Run commands sometimes
+website: fallzpixelmon.com
